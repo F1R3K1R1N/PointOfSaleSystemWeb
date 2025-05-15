@@ -3,19 +3,19 @@
 # PointOfSaleSystemWeb
 This repository contains my completed submission for the **Git & GitHub Hands-On Lab**, which provided practical experience in managing collaborative software development workflows using Git and GitHub.
 
-## ðŸ“œ Table of Contents
+## Table of Contents
 
-1. [âœ… Learning Objectives Achieved](#-learning-objectives-achieved)
+1. [Learning Objectives Achieved](#-learning-objectives-achieved)
 
-2. [ðŸ”§ Lab Workflow Summary](#-lab-workflow-summary)
+2. [Lab Workflow Summary](#-lab-workflow-summary)
 
-3. [ðŸ“ Files & Structure](#-files--structure)
+3. [Files & Structure](#-files--structure)
 
-4. [ðŸ’¡ Key Takeaways](#-key-takeaways)
+4. [Key Takeaways](#-key-takeaways)
 
 ---
 
-## 1. âœ… Learning Objectives Achieved
+## 1. Learning Objectives Achieved
 
 Through this lab, I was able to:
 
@@ -30,7 +30,7 @@ Through this lab, I was able to:
 
 ---
 
-## 2. ðŸ”§ Lab Workflow Summary
+## 2. Lab Workflow Summary
 
 1. Downloaded and reviewed the lab guide: `Lab_Module_2.pdf`
 2. Extracted and used the starter files from `resources_Module_2.zip`
@@ -46,12 +46,11 @@ Through this lab, I was able to:
 
 ---
 
-## 3. ðŸ“ Files & Structure
+## 3. Files & Structure
 
-- `Lab_Module_2.pdf` â€“ Full lab instructions (available for reference)
-- `resources_Module_2.zip` â€“ Contains all starter files
-- `screenshots/` â€“ (If applicable) Evidence of steps, commits, or conflict resolution
-- This repository â€“ Reflects the working state of the project after completing all lab tasks
+- `Lab_Module_2.pdf` Full lab instructions (available for reference)
+- `resources_Module_2.zip` Contains all starter files
+- This repository reflects the working state of the project after completing all lab tasks
 
 ---
 
